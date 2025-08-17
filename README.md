@@ -1,36 +1,144 @@
-<h1>I'm Clickify 😄</h1>
-<li>Aspiring Developer :D
-</li><li>Interested in collaborating and developing cool projects
-</li><li>Hit me up if you wanna collaborate on a fun project 
-<br>
-<br>
+# 📄 README.md (Copy this into your profile repo)
 
+<!-- Replace EVERY `yourusername` and links with your real ones -->
 
+<h1 align="center">Hi, I'm Shubham 👋</h1>
+<p align="center">
+  CSE @ MMCOE • Web Dev • Cybersecurity • DSA • Anime enthusiast
+</p>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat&color=blue" alt="Profile views" />
+  </a>
+  <a href="https://github.com/yourusername?tab=followers">
+    <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="Followers" />
+  </a>
+  <a href="https://github.com/yourusername?tab=stars">
+    <img src="https://img.shields.io/github/stars/yourusername?style=social" alt="Stars" />
+  </a>
+</p>
 
-<table border="2" align="center">
-<tbody><tr><td>
-<p dir="auto"><strong>My current skills ! </strong></p>
+---
 
+### 🚀 About Me
 
-<a href="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" rel="nofollow"><img src="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="" style="max-width: 100%;"></a>
+* 🧑‍💻 CSE student at **MMCOE, Pune**
+* ☕ Coffee-powered (2 cups/day)
+* 🛡️ Learning **TryHackMe**, Linux basics & Web Security
+* 📚 **GATE prep + Engineering Mathematics**
+* 🧪 Building small web apps for fun (Tailwind, JS, React)
 
-<a href="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" rel="nofollow"><img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="" style="max-width: 100%;"></a>
-<a href="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" rel="nofollow"><img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="" style="max-width: 100%;"></a>
+### 🧰 Tech I Use
 
+<p>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</p>
 
+### 🔭 Current Focus
 
+* 🎧 Spotify-like dashboard UI (frontend)
+* 📅 Anime airing schedule app (HTML + Tailwind + JS)
+* 🔍 DSA + Python daily
 
-  </td>
-  </tr><tr>
-  <td>
+### 📊 Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=radical)
 
-</td></tr></tbody></table>
-<br>
-<p dir="auto">Lets connect and have fun collaborating !         <a target="_blank" rel="noopener noreferrer" href="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width: 100%;"></a></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" style="max-width: 100%;"></a>
+![Streak](https://streak-stats.demolab.com?user=yourusername\&theme=radical)
 
-<p dir="auto">Well thats about it for now, See ya !   <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/83284294/124421267-b65b8100-dd7e-11eb-83a6-b3572a3ee21f.gif"><img src="https://user-images.githubusercontent.com/83284294/124421267-b65b8100-dd7e-11eb-83a6-b3572a3ee21f.gif" alt="ezgif-2-f0bfd8f7bd26" style="max-width: 100%;"></a></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=radical)
 
-</li></article>
+### 📌 Featured Projects
+
+<a href="https://github.com/yourusername/repo1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=radical" />
+</a>
+<a href="https://github.com/yourusername/repo2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical" />
+</a>
+
+### 🐍 Contribution Graph
+
+> After enabling the workflow below, this image will start rendering automatically.
+
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
+### 📫 Connect
+
+* ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/your-link/)
+* 🌐 Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
+
+---
+
+## ⚙️ Optional: GitHub Action for the Snake Animation
+
+Create a file at `.github/workflows/snake.yml` in your profile repo with **this exact content** (replace `yourusername`):
+
+```yml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: yourusername
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+> Commit the workflow; it will create/update an `output` branch with the SVG. The image URL used above will then show the animated grid.
+
+---
+
+## 🔗 Quick Badge Snippets (Optional)
+
+```md
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Followers](https://img.shields.io/github/followers/yourusername?style=social)
+![Stars](https://img.shields.io/github/stars/yourusername?style=social)
+```
+
+```md
+<!-- Pinned repo card (change repo name) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=radical)](https://github.com/yourusername/repo-name)
+```
+
+---
+
+### ✅ Replace Checklist
+
+* [ ] Replace all `yourusername`
+* [ ] Put real links for email/LinkedIn/portfolio
+* [ ] Change `repo1`/`repo2` to actual projects
+* [ ] Commit the Action file if you want the snake
+* [ ] Preview the README on GitHub profile
