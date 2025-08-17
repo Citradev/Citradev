@@ -34,10 +34,5 @@
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
-### 🐍 Contribution Graph
-
-> After enabling the workflow below, this image will start rendering automatically.
-
-![Snake animation](https://github.com/citradev/citradev/blob/output/github-contribution-grid-snake.svg)
 
 
