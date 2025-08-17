@@ -3,19 +3,6 @@
 <p align="center">
    • Web Dev • python • DSA • Anime enthusiast
 </p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat&color=blue" alt="Profile views" />
-  </a>
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="Followers" />
-  </a>
-  <a href="https://github.com/yourusername?tab=stars">
-    <img src="https://img.shields.io/github/stars/yourusername?style=social" alt="Stars" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
